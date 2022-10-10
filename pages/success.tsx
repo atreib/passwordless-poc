@@ -1,7 +1,7 @@
 import type { NextPage } from 'next'
 
 const Home: NextPage = () => {
-  return <div>You need to login, go to /api/login-v1</div>;
+  return <div>You are logged in</div>;
 }
 
 export default Home
